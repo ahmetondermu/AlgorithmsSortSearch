@@ -45,6 +45,6 @@ def main():
     # Sıralanmış diziyi ekrana yazdır
     print("Sıralanmış dizi:", arr)
 
-# main fonksiyonunu çağırarak programı çalıştır
+# Call main
 if __name__ == "__main__":
     main()

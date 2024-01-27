@@ -40,6 +40,7 @@ def main():
     index = BinarySearch(array, wanned, length, 0)
     print("Index of searching : " + str(index))
 
+# Call main
 main()
 
 

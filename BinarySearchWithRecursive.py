@@ -19,6 +19,7 @@
 # ve bunların boyutları nedir eğer bu tarz bilinmezlikleri varsa diğer bir değişli durumun derinliği
 # bilinmiyorsa bu nokta de rekursif ile farklı derinlikteki noktalara fonksiyonu kendi içinde tekrar
 # tekrar çağırarak bu yapıyı çözmeye çalışırız.
+#Good
 
 def BinarySearch(array, wanned, higher, lower):
     if(lower > higher):

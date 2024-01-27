@@ -4,6 +4,7 @@
 # büyüklük küçüklük durumlarına göre sıralam işlemi yapar.
 # Genellikle while döngüsü kullanılır ve dizi sıralana kadar 
 # koşullu bir şekilde döngü devam eder.
+# Insertion Sort
 
 def insertionSort(arr):
     """
@@ -28,6 +29,7 @@ def insertionSort(arr):
             arr[j + 1] = arr[j]
             j -= 1
             # Ok
+            
 
         # Eksilen yerde key'i ekle
         arr[j + 1] = key

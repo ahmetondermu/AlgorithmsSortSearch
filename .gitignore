@@ -1,0 +1,11 @@
+# gitignore dosyası aslında dökümantasyon, video, text
+# veya görsel gibi sürekli değitirmediğimiz sabit bir şekilde
+# projemizin içinde kalan dosyalardır bunları ignore edebiliriz.
+*.jpg
+*.png
+*.mp4
+emtyFiles.txt
+# Ve faklı branch ler oluşturup içinde farklı işlemler yapıp 
+# dosyaların hem korumuş hem de farklı işlemler yapmış olursunuz
+# merge ve checkout ile bu brancler üzerinde farklı işlemler yapabilirsiniz
+

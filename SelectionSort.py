@@ -29,7 +29,7 @@ def main():
     print("After sort processes: ")
     print(arrSort)
                 
-# Call main
+# Main call
 main()
             
         
